@@ -30,4 +30,11 @@ The Application Runs on **localhost:4000**
 2.body parsing middleware body-parser
 
 ##Usage
+
 open postman and use these url to test the api
+
+GET /users
+GET /users/:id
+POST /users
+PATCH /users/:id
+DELETE /users/:id
