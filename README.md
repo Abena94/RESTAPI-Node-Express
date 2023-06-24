@@ -37,4 +37,4 @@ Open postman and use these url to test the api\
 **GET /users/:id**\
 **POST /users**\
 **PATCH /users/:id**\
-**DELETE /users/:id**\
+**DELETE /users/:id**
