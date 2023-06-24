@@ -27,7 +27,7 @@ The Application Runs on **localhost:4000**
 ## Routing and HTTP tools
 
 1.Fast, unopinionated, minimalist web framework express\
-2.Body parsing middleware body-parser\
+2.Body parsing middleware body-parser
 
 ## Usage
 
