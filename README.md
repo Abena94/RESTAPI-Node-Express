@@ -26,12 +26,13 @@ The Application Runs on **localhost:4000**
 
 ## Routing and HTTP tools
 
-###1.fast, unopinionated, minimalist web framework express
-###2.body parsing middleware body-parser
+1.Fast, unopinionated, minimalist web framework express
+2.Body parsing middleware body-parser
 
 ## Usage
 
-open postman and use these url to test the api
+Open postman and use these url to test the api
+
 **GET /users**
 **GET /users/:id**
 **POST /users**
