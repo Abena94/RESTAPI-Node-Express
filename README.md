@@ -32,9 +32,8 @@ The Application Runs on **localhost:4000**
 ## Usage
 
 open postman and use these url to test the api
-
-###GET /users
-###GET /users/:id
-###POST /users
-###PATCH /users/:id
-###DELETE /users/:id
+**GET /users**
+**GET /users/:id**
+**POST /users**
+**PATCH /users/:id**
+**DELETE /users/:id**
