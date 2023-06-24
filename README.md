@@ -24,12 +24,12 @@ npm start
 
 The Application Runs on **localhost:4000**
 
-##Routing and HTTP tools
+## Routing and HTTP tools
 
 1.fast, unopinionated, minimalist web framework express
 2.body parsing middleware body-parser
 
-##Usage
+## Usage
 
 open postman and use these url to test the api
 
